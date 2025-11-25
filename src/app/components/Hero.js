@@ -18,8 +18,7 @@ export default function Hero() {
             MIS Professional
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            With 2 years of experience in Management Information Systems, 
-            specializing in data analysis, system optimization, and business intelligence.
+            with 2+ years of experience in data analysis, automation, and process optimization. Skilled in Google Sheets, Advanced Excel, JavaScript, Apps Script, SQL, Power BI, and Looker Studio to build efficient, data-driven solutions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button 

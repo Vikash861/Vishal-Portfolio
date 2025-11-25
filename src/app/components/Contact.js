@@ -36,21 +36,21 @@ export default function Contact() {
                 <Mail className="text-blue-500 mr-4 mt-1" size={20} />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-gray-600">vishal@email.com</p>
+                  <p className="text-gray-600">vishalsharma965352@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <Phone className="text-blue-500 mr-4 mt-1" size={20} />
                 <div>
                   <p className="font-medium">Phone</p>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 9653523424</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <MapPin className="text-blue-500 mr-4 mt-1" size={20} />
                 <div>
                   <p className="font-medium">Location</p>
-                  <p className="text-gray-600">Your City, Country</p>
+                  <p className="text-gray-600">Haryana, India</p>
                 </div>
               </div>
             </div>

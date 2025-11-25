@@ -2,11 +2,15 @@ const skillCategories = [
   {
     category: "Technical Skills",
     skills: [
-      { name: "SQL & Database Management", level: 90 },
-      { name: "Data Analysis", level: 85 },
-      { name: "Business Intelligence Tools", level: 80 },
-      { name: "ERP Systems", level: 75 },
-      { name: "Python Programming", level: 70 },
+      { name: "SQL & Database Management", level: 85 },
+      { name: "Data Analysis", level: 90 },
+      { name: "Excel & Google Sheets", level: 95 },
+      { name: "Business Intelligence Tools", level: 90 },
+      { name: "Looker Studio", level: 100 },
+      { name: "Google Sites", level: 100 },
+      { name: "Appscript & Javascript", level: 85 },
+      { name: "ERP Systems", level: 65 },
+      { name: "Python Programming", level: 50 },
       { name: "System Administration", level: 80 }
     ]
   },
@@ -17,7 +21,10 @@ const skillCategories = [
       { name: "Project Management", level: 80 },
       { name: "Data Visualization", level: 75 },
       { name: "Technical Documentation", level: 90 },
-      { name: "Stakeholder Communication", level: 85 }
+      { name: "Stakeholder Communication", level: 85 },
+      { name: "Process Optimization", level: 90 },
+      { name: "Team Collaboration", level: 90 },
+      { name: "Project Coordination", level: 90 },
     ]
   }
 ];

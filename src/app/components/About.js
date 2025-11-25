@@ -6,29 +6,26 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <img 
-              src="/profile.jpg" 
-              alt="John Doe" 
-              className="rounded-lg shadow-lg w-full h-64 object-cover"
+              src="profile_photo.jpg" 
+              alt="Vishal Sharma" 
+              className="rounded-lg shadow-lg w-full h-81 object-cover"
             />
           </div>
           <div>
             <p className="text-lg text-gray-700 mb-4">
-              I am a dedicated MIS professional with 2 years of hands-on experience 
-              in managing information systems, analyzing business data, and implementing 
-              technology solutions that drive organizational efficiency.
+              I am a dedicated MIS professional with 2+ years of hands-on experience in managing information systems, analyzing business data, and optimizing operational workflows. I specialize in transforming raw data into meaningful insights that support better business decisions and improve overall organizational efficiency.
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              My expertise lies in bridging the gap between technical teams and business 
-              stakeholders to deliver solutions that meet organizational objectives.
+              I am experienced in working cross-functionally with technical teams and business stakeholders to understand requirements and deliver practical, scalable solutions. My focus is always on improving efficiency, accuracy, and productivity through smart use of technology and data-driven strategies.
             </p>
             <div className="grid grid-cols-2 gap-4 mt-6">
               <div>
                 <h4 className="font-semibold">Name:</h4>
-                <p className="text-gray-600">John Doe</p>
+                <p className="text-gray-600">Vishal Sharma</p>
               </div>
               <div>
                 <h4 className="font-semibold">Email:</h4>
-                <p className="text-gray-600">john.doe@email.com</p>
+                <p className="text-gray-600">vishalsharma965352@gmail.com</p>
               </div>
               <div>
                 <h4 className="font-semibold">Experience:</h4>
@@ -36,7 +33,7 @@ export default function About() {
               </div>
               <div>
                 <h4 className="font-semibold">Location:</h4>
-                <p className="text-gray-600">New York, USA</p>
+                <p className="text-gray-600">Haryana, India</p>
               </div>
             </div>
           </div>

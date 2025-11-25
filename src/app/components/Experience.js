@@ -3,24 +3,29 @@ import { Briefcase, Calendar } from 'lucide-react';
 const experiences = [
   {
     title: "MIS Analyst",
-    company: "Tech Solutions Inc.",
-    period: "2022 - Present",
+    company: "SV Nanometrology Pvt Ltd.",
+    period: "October 2024 - Present",
     responsibilities: [
       "Managed and optimized company databases and information systems",
-      "Developed and maintained business intelligence dashboards",
+      "Developed and maintained business intelligence and advanced dashboards in Looker Studio, delivering real-time insights to support data-driven decision-making and performance tracking.",
       "Automated reporting processes reducing manual work by 40%",
-      "Collaborated with cross-functional teams to implement system improvements"
+      "Collaborated with cross-functional teams to implement system improvements",
+      "Automated FMS, IMS, and PMS workflows using AppScript, eliminating manual tasks and boosting operational efficiency",
+      "Implemented checklist automation via AppScript, ensuring accuracy, reducing errors, and streamlining daily operations.",
+      "Successfully integrated Rahul Jain Course systems such as FMS, Checklist workflows,MIS Summary, and Doer–Done Dashboards, improving task tracking, accountability, and operational efficiency."
+
     ]
   },
   {
-    title: "Junior MIS Specialist",
-    company: "Data Systems Corp",
-    period: "2021 - 2022",
+    title: "MIS Executive",
+    company: "LuneBlaze (Avadna Services Pvt Ltd.)",
+    period: "June 2023 - September 2024",
     responsibilities: [
       "Assisted in database management and maintenance",
-      "Supported system implementation projects",
+      "Managed and optimized operational workflows, ensuring compliance with SQAAF standards and maintaining efficient documentation processes.",
       "Created technical documentation and user guides",
-      "Provided technical support to end-users"
+      "Led email marketing campaigns targeting 20,000+ schools, resulting in a 500+ student increase in internship enrollments within just 2 months.",
+      "Assisted in coordinating internships and monitored program performance using detailed metrics, providing regular reports to track progress and improvements."
     ]
   }
 ];
