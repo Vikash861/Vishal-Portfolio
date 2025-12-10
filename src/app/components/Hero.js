@@ -27,7 +27,7 @@ export default function Hero() {
             >
               Get In Touch <ArrowRight className="ml-2" size={20} />
             </button>
-            <button className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition duration-300 flex items-center justify-center">
+            <button onClick={()=> window.open("/Resume.pdf","_blank")} className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition duration-300 flex items-center justify-center">
               Download Resume <Download className="ml-2" size={20} />
             </button>
           </div>
